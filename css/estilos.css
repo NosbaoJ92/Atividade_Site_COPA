@@ -156,6 +156,12 @@ nav a:hover{
   width: 80%;
 }
 
+.carrossel{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
 #historia{
   background-color: #2E3C63;
   width: 100%;
